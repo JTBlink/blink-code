@@ -129,6 +129,7 @@ See the [installation instructions](https://aider.chat/docs/install.html) and [u
 - [Tutorial Videos](https://aider.chat/docs/usage/tutorials.html)
 - [Connecting to LLMs](https://aider.chat/docs/llms.html)
 - [Configuration Options](https://aider.chat/docs/config.html)
+- [Architecture Documentation](doc/architecture/index.md)
 - [Troubleshooting](https://aider.chat/docs/troubleshooting.html)
 - [FAQ](https://aider.chat/docs/faq.html)
 
@@ -177,4 +178,3 @@ See the [installation instructions](https://aider.chat/docs/install.html) and [u
 - *"Been using aider as my daily driver for over a year ... I absolutely love the tool, like beyond words."* — [koleok on Discord](https://discord.com/channels/1131200896827654144/1273248471394291754/1356727448372252783)
 - *"Aider ... is the tool to benchmark against."* — [BeetleB on Hacker News](https://news.ycombinator.com/item?id=43930201)
 - *"aider is really cool"* — [kache on X](https://x.com/yacineMTB/status/1911224442430124387)
-
